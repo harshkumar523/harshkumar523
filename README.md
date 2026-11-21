@@ -1,6 +1,6 @@
 # Kumar Harsh — AI Automation Engineer
 
-I build end-to-end AI automation systems using Make.com, n8n, and OpenAI APIs. Background in financial data at S&P Global, now focused full-time on AI automation and agent development.
+End-to-end AI automation workflows, RAG pipelines, and deployed AI agents I’ve built to solve real-world business problems.
 
 ---
 
